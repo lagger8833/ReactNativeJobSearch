@@ -1,10 +1,23 @@
 {
   "expo": {
     "scheme": "acme",
+    "orientation":"portrait",
+    "version":"1.0.0.2",
+    "description":"Expo based React Native Job Search app",
+    "icon":"./assets/icons/icon.png",
     "web": {
       "bundler": "metro"
     },
-    "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "name": "Job Mate",
+    "slug": "job-mate",
+    "splash":{
+        "image": "./assets/icons/splashLogo.jpg",
+        "resizeMode": "contain"
+      },
+    "extra": {
+      "eas": {
+        "projectId": "320b8a26-2277-4759-916c-5f32c7e6986f"
+      }
+    }
   }
 }
