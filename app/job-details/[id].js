@@ -107,7 +107,7 @@ const JobDetails = () => {
             <ScreenHeaderBtn 
               iconUrl={icons.share} 
               dimension='60%' 
-              handlePres={()=> onShare()}
+              handlePress={()=> onShare()}
               />
           ),
           headerTitle: "",

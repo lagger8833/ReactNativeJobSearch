@@ -2,7 +2,7 @@
   "expo": {
     "scheme": "acme",
     "orientation":"portrait",
-    "version":"1.0.0.2",
+    "version":"1.0.0.1",
     "description":"Expo based React Native Job Search app",
     "icon":"./assets/icons/icon.png",
     "web": {
